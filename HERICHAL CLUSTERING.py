@@ -28,7 +28,7 @@ print(cluster_centers)
 
 n_clusters_ = len(np.unique(labels))
 
-print("Number of estimated clusters:", n_clusters_)
+print("Numero de clusters?:", n_clusters_)
 
 colors = 10*['r','g','b','c','k','y','m']
 
